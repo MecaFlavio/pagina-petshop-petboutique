@@ -1,3 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 36px;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
 
 .roxo{
     color: #3c184e;
@@ -66,14 +79,106 @@
     text-align: center;
 }
 
-.outdoor p a{
-    text-decoration: none;    
-}
-
 .outdoor .rede-whatsapp{
     width: 20px;
     margin: 0 0 0 5px;
 }
 
+.servico {
+    width: 100%;
+    padding: 120px 80px;
+    box-sizing: border-box;
+}
 
+.servico .lista {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+}
+
+.servico .lista li {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+.topico {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.servico .galeria {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.servico .galeria img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa {
+    width: 100%;
+    text-align: center;
+    background-color: #3c184e;
+    padding: 120px 80px;
+    box-sizing: border-box;
+}
+
+.faixa p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    text-align: center;
+}
+
+.faixa .redes-sociais img{
+    margin: 0 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.logomarcas {
+    width: 100%;
+    padding: 120px 80px;
+    box-sizing: border-box;
+}
+
+.logomarcas .marcas-parceiras {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.logomarcas .marcas-parceiras img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+.mapa {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.mapa p {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.mapa iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.rodape p{ 
+    font-size: 12px;
+    text-align: center;
+}
 
