@@ -1,0 +1,79 @@
+
+.roxo{
+    color: #3c184e;
+    font-family: 'sans-serif';
+}
+
+.branco{
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.banner {
+    width: 100%;
+    padding: 120px 80px;
+    background-image: url("/img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+}
+
+.marca{
+    max-width: 250px;
+}
+
+.marca .nome-loja{
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+
+.logo-patas {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.marca .slogan {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.outdoor{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffff94;
+    box-shadow: 0 8px 32px ;
+    box-sizing: border-box;
+}
+
+.outdoor h1{
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+    margin: 0 0 40px 0;   
+}
+
+.outdoor p{
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.outdoor p a{
+    text-decoration: none;    
+}
+
+.outdoor .rede-whatsapp{
+    width: 20px;
+    margin: 0 0 0 5px;
+}
+
+
+
