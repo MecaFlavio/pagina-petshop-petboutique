@@ -25,11 +25,7 @@ h3 {
 .banner {
     width: 100%;
     padding: 120px 80px;
-<<<<<<< HEAD:estilo.css
-    background-image: url('img/banner-topo.jpg');
-=======
     background-image: url("img/banner-topo.jpg");
->>>>>>> 1617f0fcc59bfda02d53fdfb16046d6105d4c1a5:css/estilo.css
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
